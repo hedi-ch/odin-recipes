@@ -1,0 +1,26 @@
+h1{font-family: 'Tangerine', serif;
+  font-size: 9rem;
+  text-shadow: 4px 4px 4px #aaa;
+    
+    padding: 0.5rem;
+    margin: 0.5rem;
+    color: rgba(48, 22, 190, 0.493);
+}
+body{
+    background-color: rgba(44, 42, 42, 0.281);
+    text-align: center;
+    position: relative;
+    justify-content: center;
+}
+li{
+    margin: 2rem;
+}
+a{
+    display: block;
+}
+.food.image{
+    max-width: 14rem;
+}
+header{
+    font-family: vintage;
+}
